@@ -1,0 +1,9 @@
+//random şaka
+https://api.chucknorris.io/#!
+
+
+//translate api
+https://kiosk-dot-codelabs-site.appspot.com/codelabs/cloud-translation-intro/index.html?index=..%2F..index#0
+
+//random png
+https://unsplash.com/documentation
